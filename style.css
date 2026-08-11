@@ -31,10 +31,13 @@ body{
     display: block;
 }
 
-.iconebarra{
-width: 30px;
-height: 30px ;
-position: relative;
-left: 10% ;
-right:50% ;
+#barra {
+width: 30px;;
+height: 40px;
+position: relative
+;
+left: 50%;
+right:70% ;
+
+
 }
