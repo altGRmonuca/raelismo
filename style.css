@@ -24,5 +24,6 @@ body{
 }
 
 .barradepesquisa {
+    align-items: center;
     position: center;
 }
