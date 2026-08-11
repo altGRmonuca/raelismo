@@ -26,4 +26,7 @@ body{
 .barradepesquisa {
     align-items: center;
     position: center;
+    width: 70px;
+    height: 70px;
+    display: block;
 }
